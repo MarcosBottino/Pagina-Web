@@ -1,0 +1,21 @@
+.reloj{
+    padding: 30px;
+    background: url("../img/giro.png");
+    width: 150px;
+    height: 150px;
+    border-radius: 300px;
+    background-color: #ededed;
+    background-size: 100%;
+    border: 10px solid #555;
+    display: flex;
+    margin: 0px auto;
+}
+
+.reloj img {
+    position: relative;
+    height: 150px;
+}
+
+.reloj #minutos{
+    position: absolute;
+}

@@ -1,0 +1,20 @@
+body{
+    background: url('../img/cielo.jpg');
+    background-attachment: fixed; /*Para que la imagen cubra la pagina entera.*/
+}
+
+#logo{
+    background: #1f87c4;
+}
+
+#menu ul li:hover{
+    background: #1f87c4;
+}
+
+.button-more{
+    background: #1f87c4;
+}
+
+footer {
+    background: #1f87c4;
+}
